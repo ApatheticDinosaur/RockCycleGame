@@ -11,4 +11,8 @@ public class RC_View extends JFrame
     {
         button.addActionListener(listener);
     }
+    
+    public RC_View() {
+        //Add the view for stuff related here
+    }
 }
